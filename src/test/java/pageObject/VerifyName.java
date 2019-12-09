@@ -57,6 +57,7 @@ public class VerifyName extends BrowserDriver {
 	@AfterTest(groups = {"Reg"})
 
 	public void close() {
+		System.out.println("git update");
 		driver.close();
 	}
 
