@@ -1,0 +1,7 @@
+13:56:46.489 [TestNG-test=Test-1] INFO  pageObject.LoginTest - Login FB
+13:56:53.268 [TestNG-test=Test-1] INFO  pageObject.LoginTest - flipkart
+12:37:12.673 [TestNG-test=Test-1] INFO  pageObject.LoginTest - Login FB
+12:37:13.221 [TestNG-test=Test-1] ERROR pageObject.LoginTest - Login Failed
+12:37:24.216 [TestNG-test=Test-1] INFO  pageObject.LoginTest - Login FB
+12:37:28.610 [TestNG-test=Test-1] INFO  pageObject.LoginTest - flipkart
+14:31:30.715 [main] INFO  pageObject.VerifyName - Facebook

@@ -1,0 +1,8 @@
+
+14:38:53.789 [TestNG-tests-1] INFO  pageObject.LoginTest - Login FB
+14:38:54.336 [TestNG-tests-1] ERROR pageObject.LoginTest - Login Failed
+14:41:43.468 [TestNG-test=Test-2] INFO  pageObject.VerifyName - Facebook
+14:41:49.205 [TestNG-test=Test-2] ERROR pageObject.VerifyName - Unable to login
+13:37:58.299 [main] INFO  pageObject.VerifyName - Facebook
+13:51:03.464 [TestNG-test=Test-1] INFO  pageObject.LoginTest - Login FB
+13:51:04.159 [TestNG-test=Test-1] ERROR pageObject.LoginTest - Login Failed

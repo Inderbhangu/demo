@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: pageObject.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 46.96 sec <<< FAILURE!
+signup(pageObject.LoginTest)  Time elapsed: 3.813 sec  <<< FAILURE!
+java.lang.AssertionError: did not expect to find [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.failNotEquals(Assert.java:969)
+	at org.testng.Assert.assertTrue(Assert.java:43)
+	at org.testng.Assert.assertTrue(Assert.java:53)
+	at pageObject.LoginTest.signup(LoginTest.java:49)
+

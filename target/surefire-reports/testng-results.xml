@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30677" started-at="2019-12-06T14:15:23 EST" finished-at="2019-12-06T14:15:54 EST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@3632be31]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="verify User login" duration-ms="30677" started-at="2019-12-06T14:15:23 EST" finished-at="2019-12-06T14:15:54 EST">
+      <class name="cucumberOptions.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberOptions.TestRunner@3632be31]" name="setUpClass" is-config="true" duration-ms="219" started-at="2019-12-06T14:15:23 EST" finished-at="2019-12-06T14:15:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@3632be31]" name="runScenario" duration-ms="19121" started-at="2019-12-06T14:15:24 EST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-12-06T14:15:43 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login from landing page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Facebook login"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@3632be31]" name="runScenario" duration-ms="11205" started-at="2019-12-06T14:15:43 EST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-12-06T14:15:54 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login from landing page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Facebook login"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunner@3632be31]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2019-12-06T14:15:54 EST" finished-at="2019-12-06T14:15:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunner -->
+    </test> <!-- verify User login -->
+  </suite> <!-- Suite -->
+</testng-results>
