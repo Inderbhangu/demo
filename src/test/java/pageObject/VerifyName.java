@@ -58,6 +58,8 @@ public class VerifyName extends BrowserDriver {
 
 	public void close() {
 		System.out.println("git update");
+		System.out.println("git develop");
+		
 		driver.close();
 	}
 
